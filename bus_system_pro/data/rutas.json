@@ -1,0 +1,16 @@
+[
+  {
+    "origen": "Lima",
+    "destino": "Ica",
+    "hora": "10:00",
+    "bus": "45B",
+    "precio": 45.0
+  },
+  {
+    "origen": "Lima",
+    "destino": "Huacho",
+    "hora": "13:00",
+    "bus": "458",
+    "precio": 30.0
+  }
+]
